@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/ico"/>
+    <qresource prefix="/">
+        <file>img/social-media.png</file>
+        <file>img/interface (2).png</file>
+        <file>img/new.png</file>
+        <file>img/imp.png</file>
+        <file>img/multimedia-option.png</file>
+        <file>img/test.png</file>
+        <file>img/one_ans.png</file>
+        <file>img/multi_ans.png</file>
+        <file>img/fillblank.png</file>
+        <file>img/vidpov.png</file>
+        <file>img/del4.png</file>
+        <file>img/save.png</file>
+        <file>img/edite.png</file>
+        <file>img/show.png</file>
+        <file>img/search.png</file>
+        <file>img/setting.png</file>
+        <file>img/picture.png</file>
+        <file>img/text.png</file>
+        <file>img/textImg.png</file>
+        <file>img/minus.png</file>
+        <file>img/i1.png</file>
+        <file>img/i2.png</file>
+        <file>img/i3.png</file>
+        <file>img/image28.png</file>
+        <file>img/image30.png</file>
+        <file>img/image31.png</file>
+        <file>img/image32.png</file>
+        <file>img/image33.PNG</file>
+        <file>img/previous.png</file>
+        <file>img/home.png</file>
+        <file>img/new1.png</file>
+        <file>img/open1.png</file>
+        <file>img/import.png</file>
+        <file>img/save1.png</file>
+        <file>img/save2.png</file>
+    </qresource>
+</RCC>
